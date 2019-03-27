@@ -38,5 +38,8 @@ npm install url-loader
 npm install --save-dev webpack-hot-middleware
 npm install --save-dev mini-css-extract-plugin uglifyjs-webpack-plugin optimize-css-assets-webpack-plugin
 npm install --save-dev eslint babel-eslint eslint-loader eslint-plugin-react
+npm install --save-dev jest
 npm run build
 npm start
+npm run coverage
+npm test
